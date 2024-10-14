@@ -1,4 +1,4 @@
-# Library Documentation: Simplify Event Handling with Closures
+# Simplify Event Handling with Closures
 
 ## Overview
 
